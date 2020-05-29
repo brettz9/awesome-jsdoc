@@ -8,6 +8,7 @@ A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github
 - [Linting](#linting)
 - [Parsing and Stringifying](#parsing-and-stringifying)
 - [Schema usage](#schema-usage)
+- [Type checking](#type-checking)
 - [Visualizations](#visualizations)
 
 ## Markdown
@@ -22,13 +23,37 @@ A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github
 
 ## Parsing and Stringifying
 
-- [comment-parser](https://github.com/syavorsky/comment-parser) - JSDoc-*like* parsing and stringifying (to be semantically aware of jsdoc's tags, you will need to supply a custom parser like [in eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc/blob/master/src/iterateJsdoc.js#L28-L85)).
+- [comment-parser](https://github.com/syavorsky/comment-parser) - JSDoc-*like*
+  parsing and stringifying (to be semantically aware of jsdoc's tags, you will
+  need to supply a custom parser like [in eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc/blob/master/src/iterateJsdoc.js#L28-L85)).
+- [jsdoctypeparser](https://github.com/jsdoctypeparser/jsdoctypeparser) - JSDoc type
+  parser/stringifier/traverser used in `eslint-plugin-jsdoc` which also supports
+  some TypeScript.
+- [catharsis](https://github.com/hegemonic/catharsis) - JSDoc type parser used
+  within jsdoc itself.
 
 ## Schema usage
 
-- [json-schema-to-jsdoc](https://github.com/n3ps/json-schema-to-jsdoc) - Converts from [JSON Schema](http://json-schema.org/) to JSDoc.
-- [jsdoc-jsonschema](https://github.com/brettz9/jsdoc-jsonschema) - Converts from jsdoc to [JSON Schema](http://json-schema.org/) (early in project, but aims to use standard `@typedef`).
+- [json-schema-to-jsdoc](https://github.com/n3ps/json-schema-to-jsdoc) - Converts
+  from [JSON Schema](http://json-schema.org/) to JSDoc.
+- [jsdoc-jsonschema](https://github.com/brettz9/jsdoc-jsonschema) - Converts from
+  jsdoc to [JSON Schema](http://json-schema.org/) (early in project, but aims to
+  use standard `@typedef`).
+
+## Type checking
+
+- [bycontract](https://github.com/dsheiko/bycontract/) - Validate structures with
+  jsdoc expressions.
+- [eslint-plugin-typelint](https://github.com/yarax/eslint-plugin-typelint) - Allows
+  JSON Schema (or Redux reducer) to be pointed to by jsdoc types with
+  usage type-checked.
+- [tern](https://github.com/ternjs/tern) - Checking type usage against jsdoc.
+  (Also interesting for notion of implicit typing--might there be a static
+  but implicitly typed, ESLint-enforced subset of JavaScript (like `asm.js`)
+  which can compile to more performant code without need to pollute code with
+  types everywhere?.)
 
 ## Visualizations
 
-- [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create (D3) diagrm from your project's jsdoc.
+- [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create (D3)
+  diagram from your project's jsdoc.
