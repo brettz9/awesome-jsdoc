@@ -6,6 +6,7 @@ A list of awesome [jsdoc](https://jsdoc.app/) ([GitHub](https://github.com/jsdoc
 
 - [Markdown](#markdown)
 - [Linting](#linting)
+- [Parsing](#parsing)
 - [Schema usage](#schema-usage)
 - [Visualizations](#visualizations)
 
@@ -18,6 +19,10 @@ A list of awesome [jsdoc](https://jsdoc.app/) ([GitHub](https://github.com/jsdoc
 ## Linting
 
 - [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - ESLint rules for JSDoc blocks.
+
+## Parsing
+
+- [comment-parser](https://github.com/syavorsky/comment-parser) - JSDoc-*like* parsing (to be semantically aware of jsdoc's tags, you will need to supply a custom parser like [in eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc/blob/master/src/iterateJsdoc.js#L28-L85)).
 
 ## Schema usage
 
