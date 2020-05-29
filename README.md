@@ -5,6 +5,7 @@ A list of awesome [jsdoc](https://jsdoc.app/) ([GitHub](https://github.com/jsdoc
 ## Contents
 
 - [Markdown](#markdown)
+- [Linting](#linting)
 - [Schema usage](#schema-usage)
 - [Visualizations](#visualizations)
 
