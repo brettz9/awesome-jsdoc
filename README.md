@@ -26,9 +26,9 @@ A list of awesome [jsdoc](https://jsdoc.app/) ([GitHub](https://github.com/jsdoc
 
 ## Schema usage
 
-- [json-schema-to-jsdoc](https://github.com/n3ps/json-schema-to-jsdoc)
-- [jsdoc-jsonschema](https://github.com/brettz9/jsdoc-jsonschema) (Early in project, but aims to use standard `@typedef`)
+- [json-schema-to-jsdoc](https://github.com/n3ps/json-schema-to-jsdoc) - Converts from [JSON Schema](http://json-schema.org/) to JSDoc.
+- [jsdoc-jsonschema](https://github.com/brettz9/jsdoc-jsonschema) - Converts from jsdoc to [JSON Schema](http://json-schema.org/) (early in project, but aims to use standard `@typedef`).
 
 ## Visualizations
 
-- [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create (D3) diagrm from jsdoc.
+- [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - Create (D3) diagrm from your project's jsdoc.
