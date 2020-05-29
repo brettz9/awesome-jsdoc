@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "awesome-jsdoc",
+  "version": "0.0.0",
+  "description": "List of awesome JSDoc resources",
+  "author": "Brett Zamir",
+  "contributors": [],
+  "repository": "https://github.com/brettz9/awesome-jsdoc",
+  "homepage": "https://github.com/brettz9/awesome-jsdoc",
+  "bugs": "https://github.com/brettz9/awesome-jsdoc/issues",
+  "engines": {},
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "jsdoc"
+  ],
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
+}
