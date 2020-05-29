@@ -1,6 +1,6 @@
 # Awesome JSDoc [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of awesome [jsdoc](https://jsdoc.app/) <small>([GitHub](https://github.com/jsdoc/jsdoc))</small> plugins, resources, etc.
+A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</sup></sub> plugins, resources, etc.
 
 ## Contents
 
