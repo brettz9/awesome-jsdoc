@@ -7,6 +7,7 @@ A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github
 - [Markdown](#markdown)
 - [Linting](#linting)
 - [Parsing and Stringifying](#parsing-and-stringifying)
+  - [Type parsing](#type-parsing)
 - [Schema usage](#schema-usage)
 - [Type checking](#type-checking)
 - [Visualizations](#visualizations)
@@ -26,6 +27,16 @@ A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github
 - [comment-parser](https://github.com/syavorsky/comment-parser) - JSDoc-*like*
   parsing and stringifying (to be semantically aware of jsdoc's tags, you will
   need to supply a custom parser like [in eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc/blob/master/src/iterateJsdoc.js#L28-L85)).
+- [@es-joy/jsdoccomment](https://github.com/es-joy/jsdoccomment) - Allows
+  JSDoc-aware tag semantics on top of `comment-parser`. Also has a number of
+  utilities, e.g., converting parser AST to ESLint AST and VisitorKeys.
+- [@es-joy/jsdoc-eslint-parser](https://github.com/es-joy/jsdoc-eslint-parser) - A
+  proof-of-concept ESLint parser integrating `@babel/eslint-parser`,
+  `comment-parser` (via `@es-joy/jsdoccomment`), and `jsdocttypeparser`.
+
+### Type parsing
+
+- [jsdoc-type-pratt-parser](https://github.com/simonseyock/jsdoc-type-pratt-parser)
 - [jsdoctypeparser](https://github.com/jsdoctypeparser/jsdoctypeparser) - JSDoc type
   parser/stringifier/traverser used in `eslint-plugin-jsdoc` which also supports
   some TypeScript.
