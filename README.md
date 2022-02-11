@@ -1,6 +1,6 @@
 # Awesome JSDoc [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</sup></sub> plugins, resources, etc.
+A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</sup></sub> plugins, resources, etc.
 
 ## Contents
 
@@ -57,7 +57,7 @@ A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github
 - [json-schema-to-jsdoc](https://github.com/n3ps/json-schema-to-jsdoc) - Converts
   from [JSON Schema](http://json-schema.org/) to JSDoc.
 - [jsdoc-jsonschema](https://github.com/brettz9/jsdoc-jsonschema) - Converts from
-  jsdoc to [JSON Schema](http://json-schema.org/) (early in project, but aims to
+  jsdoc to JSON Schema (early in project, but aims to
   use standard `@typedef`).
 
 ## Type checking
