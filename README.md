@@ -4,23 +4,32 @@ A list of awesome [jsdoc](https://jsdoc.app/) <sub><sup>([GitHub](https://github
 
 ## Contents
 
-- [Markdown](#markdown)
+- [Learning](#learning)
 - [Linting](#linting)
+- [Markdown](#markdown)
 - [Parsing and Stringifying](#parsing-and-stringifying)
   - [Type parsing](#type-parsing)
 - [Schema usage](#schema-usage)
 - [Type checking](#type-checking)
 - [Visualizations](#visualizations)
 
+## Learning
+
+- [jsdoc](https://jsdoc.app/) - Site creating original standard and a documentation tool.
+- [TypeScript docs on jsdoc](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html) - Supported JSDoc in TypeScript (TypeScript-flavor JSDoc); note especially the need for parentheses around casts!
+- [TypeScript docs for working with JavaScript files](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html) - Reference on working with plain JavaScript files to convert to declaration files (*.d.ts).
+- [Closure on tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler#define-type-description) - Closure's reference on its JSDoc tag usage.
+- [Closure on types](https://github.com/google/closure-compiler/wiki/Annotating-Types) - Closure's reference on its JSDoc type usage.
+
+## Linting
+
+- [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - ESLint rules for JSDoc blocks.
+
 ## Markdown
 
 - [Official Markdown plugin](https://jsdoc.app/plugins-markdown.html) (converting Markdown syntax within jsdoc when building jsdoc)
 - [jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) (Generating Markdown docs from JSDoc)
 - [jsdoc-md](https://github.com/jaydenseric/jsdoc-md) (Generating Markdown docs from JSDoc)
-
-## Linting
-
-- [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - ESLint rules for JSDoc blocks.
 
 ## Parsing and Stringifying
 
