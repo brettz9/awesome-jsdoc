@@ -25,6 +25,10 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 - [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - ESLint rules for JSDoc blocks.
 
+## Formatting
+
+- [eslint-plugin-isaacscript/limit-jsdoc-comments](https://github.com/IsaacScript/eslint-plugin-isaacscript/blob/main/docs/rules/limit-jsdoc-comments.md) - Automatically format JSDoc comments via an ESLint rule.
+
 ## Markdown
 
 - [Official Markdown plugin](https://jsdoc.app/plugins-markdown.html) (converting Markdown syntax within jsdoc when building jsdoc)
