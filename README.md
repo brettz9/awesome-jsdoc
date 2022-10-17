@@ -4,6 +4,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 ## Contents
 
+- [Formatting](#formatting)
 - [Learning](#learning)
 - [Linting](#linting)
 - [Markdown](#markdown)
@@ -12,6 +13,10 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 - [Schema usage](#schema-usage)
 - [Type checking](#type-checking)
 - [Visualizations](#visualizations)
+
+## Formatting
+
+- [eslint-plugin-isaacscript](https://github.com/IsaacScript/isaacscript/blob/main/packages/eslint-plugin-isaacscript/docs/rules/format-jsdoc-comments.md) - Format JSDoc comments
 
 ## Learning
 
