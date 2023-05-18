@@ -6,6 +6,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 - [Formatting](#formatting)
 - [Learning](#learning)
+- [Articles](#articles)
 - [Linting](#linting)
 - [Markdown](#markdown)
 - [Parsing and Stringifying](#parsing-and-stringifying)
@@ -25,6 +26,11 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 - [TypeScript docs for working with JavaScript files](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html) - Reference on working with plain JavaScript files to convert to declaration files (*.d.ts).
 - [Closure on tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler#define-type-description) - Closure's reference on its JSDoc tag usage.
 - [Closure on types](https://github.com/google/closure-compiler/wiki/Annotating-Types) - Closure's reference on its JSDoc type usage.
+
+## Articles
+
+- [TypeScript is not worth it](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
+- [TypeScript without TypeScript](https://fettblog.eu/typescript-jsdoc-superpowers/)
 
 ## Linting
 
