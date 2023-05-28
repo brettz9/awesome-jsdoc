@@ -31,6 +31,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 ## Documentation
 
 - [typedoc](https://typedoc.org/) - Create documentation using the TypeScript flavor of JSDoc (including documentation of plain JavaScript)
+- [typedoc-plugin-missing-exports](https://github.com/Gerrit0/typedoc-plugin-missing-exports) - Ensure typedoc gets referenced, non-exported items documented in addition to exported items.
 
 ## Articles
 
