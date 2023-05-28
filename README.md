@@ -6,6 +6,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 - [Formatting](#formatting)
 - [Learning](#learning)
+- [Documentation](#documentation)
 - [Articles](#articles)
 - [Linting](#linting)
 - [Markdown](#markdown)
@@ -26,6 +27,10 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 - [TypeScript docs for working with JavaScript files](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html) - Reference on working with plain JavaScript files to convert to declaration files (*.d.ts).
 - [Closure on tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler#define-type-description) - Closure's reference on its JSDoc tag usage.
 - [Closure on types](https://github.com/google/closure-compiler/wiki/Annotating-Types) - Closure's reference on its JSDoc type usage.
+
+## Documentation
+
+- [typedoc](https://typedoc.org/) - Create documentation using the TypeScript flavor of JSDoc (including documentation of plain JavaScript)
 
 ## Articles
 
@@ -73,6 +78,8 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 ## Type checking
 
+- [typescript](https://github.com/microsoft/TypeScript) - Check plain JavaScript with
+    TypeScript by using `allowJs` and `checkJs` in `tsconfig.json`.
 - [bycontract](https://github.com/dsheiko/bycontract/) - Validate structures with
   jsdoc expressions.
 - [eslint-plugin-typelint](https://github.com/yarax/eslint-plugin-typelint) - Allows
