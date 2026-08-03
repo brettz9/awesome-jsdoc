@@ -25,6 +25,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 - [jsdoc](https://jsdoc.app/) - Site creating original standard and a documentation tool.
 - [TypeScript docs on jsdoc](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html) - Supported JSDoc in TypeScript (TypeScript-flavor JSDoc); note especially the need for parentheses around casts!
 - [TypeScript docs for working with JavaScript files](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html) - Reference on working with plain JavaScript files to convert to declaration files (*.d.ts).
+- [TypeScript docs for type-checking JavaScript files](https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html)
 - [Closure on tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler#define-type-description) - Closure's reference on its JSDoc tag usage.
 - [Closure on types](https://github.com/google/closure-compiler/wiki/Annotating-Types) - Closure's reference on its JSDoc type usage.
 
