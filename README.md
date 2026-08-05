@@ -18,7 +18,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 ## Formatting
 
-- [eslint-plugin-isaacscript](https://github.com/IsaacScript/isaacscript/blob/main/packages/eslint-plugin-isaacscript/docs/rules/format-jsdoc-comments.md) - Format JSDoc comments
+- [eslint-plugin-isaacscript](https://github.com/IsaacScript/isaacscript/blob/main/packages/eslint-plugin-isaacscript/docs/rules/format-jsdoc-comments.md) - Format JSDoc comments.
 
 ## Learning
 
@@ -31,7 +31,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 ## Documentation
 
-- [typedoc](https://typedoc.org/) - Create documentation using the TypeScript flavor of JSDoc (including documentation of plain JavaScript)
+- [typedoc](https://typedoc.org/) - Create documentation using the TypeScript flavor of JSDoc (including documentation of plain JavaScript).
 - [typedoc-plugin-missing-exports](https://github.com/Gerrit0/typedoc-plugin-missing-exports) - Ensure typedoc gets referenced, non-exported items documented in addition to exported items.
 
 ## Articles
@@ -82,6 +82,7 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 - [typescript](https://github.com/microsoft/TypeScript) - Check plain JavaScript with
     TypeScript by using `allowJs` and `checkJs` in `tsconfig.json`.
+- [tsd-jsdoc](https://github.com/englercj/tsd-jsdoc) - Convert JSDoc to TypeScript declaration files.
 - [bycontract](https://github.com/dsheiko/bycontract/) - Validate structures with
   jsdoc expressions.
 - [eslint-plugin-typelint](https://github.com/yarax/eslint-plugin-typelint) - Allows
