@@ -4,11 +4,11 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 
 ## Contents
 
-- [Formatting](#formatting)
+- [Introductory articles](#introductory-articles)
 - [Learning](#learning)
-- [Documentation](#documentation)
-- [Articles](#articles)
+- [Documentation tools](#documentation-tools)
 - [Linting](#linting)
+- [Formatting](#formatting)
 - [Markdown](#markdown)
 - [Parsing and Stringifying](#parsing-and-stringifying)
   - [Type parsing](#type-parsing)
@@ -16,32 +16,33 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
 - [Type checking](#type-checking)
 - [Visualizations](#visualizations)
 
-## Formatting
+## Introductory articles
 
-- [eslint-plugin-isaacscript](https://github.com/IsaacScript/isaacscript/blob/main/packages/eslint-plugin-isaacscript/docs/rules/format-jsdoc-comments.md) - Format JSDoc comments.
+- [Blog post on JSDoc typings](https://gils-blog.tayar.org/posts/jsdoc-typings-all-the-benefits-none-of-the-drawbacks/)
+- [TypeScript is not worth it](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
+- [TypeScript without TypeScript](https://fettblog.eu/typescript-jsdoc-superpowers/)
 
 ## Learning
 
-- [jsdoc](https://jsdoc.app/) - Site creating original standard and a documentation tool.
+- [jsdoc](https://jsdoc.app/) - Site creating the original standard and a documentation tool.
 - [TypeScript docs on jsdoc](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html) - Supported JSDoc in TypeScript (TypeScript-flavor JSDoc); note especially the need for parentheses around casts!
 - [TypeScript docs for working with JavaScript files](https://www.typescriptlang.org/docs/handbook/declaration-files/dts-from-js.html) - Reference on working with plain JavaScript files to convert to declaration files (*.d.ts).
 - [TypeScript docs for type-checking JavaScript files](https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html)
 - [Closure on tags](https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler#define-type-description) - Closure's reference on its JSDoc tag usage.
 - [Closure on types](https://github.com/google/closure-compiler/wiki/Annotating-Types) - Closure's reference on its JSDoc type usage.
 
-## Documentation
+## Documentation tools
 
 - [typedoc](https://typedoc.org/) - Create documentation using the TypeScript flavor of JSDoc (including documentation of plain JavaScript).
 - [typedoc-plugin-missing-exports](https://github.com/Gerrit0/typedoc-plugin-missing-exports) - Ensure typedoc gets referenced, non-exported items documented in addition to exported items.
 
-## Articles
-
-- [TypeScript is not worth it](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
-- [TypeScript without TypeScript](https://fettblog.eu/typescript-jsdoc-superpowers/)
-
 ## Linting
 
 - [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) - ESLint rules for JSDoc blocks.
+
+## Formatting
+
+- [eslint-plugin-isaacscript](https://github.com/IsaacScript/isaacscript/blob/main/packages/eslint-plugin-isaacscript/docs/rules/format-jsdoc-comments.md) - Format JSDoc comments.
 
 ## Markdown
 
