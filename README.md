@@ -79,6 +79,10 @@ A list of awesome JSDoc <sub><sup>([GitHub](https://github.com/jsdoc/jsdoc))</su
   jsdoc to JSON Schema (early in project, but aims to
   use standard `@typedef`).
 
+## Server
+
+- [doc-server](https://github.com/doga/doc-server) — A [Gemini](https://geminiprotocol.net/) server for serving JSDoc documentation. Written in TypeScript, runs on [Deno](https://deno.com/). Motivation: developers are big terminal users, and Gemini is a better platform than the Web for browsing content from the terminal.
+
 ## Type checking
 
 - [typescript](https://github.com/microsoft/TypeScript) - Check plain JavaScript with
